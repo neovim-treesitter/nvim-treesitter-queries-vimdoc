@@ -1,6 +1,6 @@
 {
+  "lang": "vimdoc",
   "url": "https://github.com/neovim/tree-sitter-vimdoc",
   "semver": false,
-  "parser_version": "f061895a0eff1d5b90e4fb60d21d87be3267031a",
-  "lang": "vimdoc"
+  "parser_version": "f061895a0eff1d5b90e4fb60d21d87be3267031a"
 }
